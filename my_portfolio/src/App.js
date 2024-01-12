@@ -1,9 +1,10 @@
 import React from 'react';
 function App() {
   return (
-    <div className="App bg-blue-300">
+    <div className="App">
       <h1>My Portfolio</h1>
-    </div>
+      </div>
+    
   );
 }
 
